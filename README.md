@@ -16,6 +16,7 @@
 
 ## Installation
 0.1 Instal WSL Ubuntu
+
 0.2 Make A Directory At WSL Ubuntu
 ```bash
 mkdir path/yourfolder
