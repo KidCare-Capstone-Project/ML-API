@@ -1,7 +1,7 @@
 **Home**
 [click here](https://github.com/KidCare-Capstone-Project/Cloud_computing.git)
 
-## Requirement
+## Requirement / IDE / Library / Tools
 * Visual Studio
 * WSL Ubuntu
 * Python 10.15.0 or Higher
