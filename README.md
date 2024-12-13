@@ -5,11 +5,12 @@
 * Visual Studio
 * WSL Ubuntu
 * Python 10.15.0 or Higher
-* TensorFlow 
+* TensorFlow
 * Flask API
 * Numpay
 * Pandas
 * venv
+* Firebase admin
 * Google Cloud Platform
 
 
