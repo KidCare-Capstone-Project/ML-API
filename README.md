@@ -30,7 +30,7 @@ gcloud auth login --no-launch-browser
 ```
 ### 1. Clone this Project to local (Clone to your folder WSL Ubuntu) or cloud
 ```bash
-git clone https://github.com/KidCare-Capstone-Project/Cloud_computing.git
+git clone https://github.com/KidCare-Capstone-Project/ML-API.git
 ```
 ### 2. Local Deployment 
 2.1
